@@ -1,0 +1,21 @@
+{
+  "name": "crawler-app",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node app"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "async": "^3.2.4",
+    "brawlstats": "^3.2.0",
+    "mongoose": "^6.7.1",
+    "node-cache": "^5.1.2",
+    "ws": "^8.10.0"
+  }
+}
