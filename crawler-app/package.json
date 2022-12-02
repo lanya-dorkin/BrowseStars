@@ -13,6 +13,7 @@
   "dependencies": {
     "async": "^3.2.4",
     "brawlstats": "^3.2.0",
+    "crc-32": "^1.2.2",
     "dotenv": "^16.0.3",
     "moment": "^2.29.4",
     "mongoose": "^6.7.1",
